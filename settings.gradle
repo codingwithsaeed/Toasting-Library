@@ -1,0 +1,2 @@
+include ':app', ':toasting'
+rootProject.name='MyLib'
